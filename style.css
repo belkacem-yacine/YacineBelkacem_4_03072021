@@ -820,6 +820,11 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+.black
+{
+    color: black;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
